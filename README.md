@@ -1,1 +1,1 @@
-# devnokiyo-swagger-codegen-mocker
+# swagger-codegen-mocker
